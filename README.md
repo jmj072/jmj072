@@ -9,6 +9,8 @@
 - **[기초적인 사용이 가능함]**
   - `Linux (Ubuntu)`, `Docker`
 
+<br>
+
 ### 제가 진행한 프로젝트들은 다음과 같습니다.
 - [DB를 활용한 오류 데이터의 제거](https://github.com/jmj072/ML-outlier_removal_in_DB) (2022.03)
 - [서울시 강남구 아파트 실거래가 예측](https://github.com/jmj072/ML-Gangnam-apart-saleprice) (2022.02)
